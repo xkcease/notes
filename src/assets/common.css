@@ -1,0 +1,31 @@
+.wrap {
+    margin: 25px;
+}
+
+.col-wrap{
+    border:1px solid gray;
+    border-radius: 4px;
+    margin-top: 100px; 
+}
+
+.btn{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.ft-btn{
+    text-align: center;
+}
+
+.error{
+    color: #F56C6C;
+    font-size: 12px;
+    line-height: 1;
+}
+
+.link{
+    font-size: 12px;
+    color: #00a1d6;
+    text-decoration: none;
+    margin-left: 10px;
+}
